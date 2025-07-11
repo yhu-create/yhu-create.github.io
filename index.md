@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yuxuan Hu**.<br>
 
-I am a undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). I am double major in physics and Mathematics. 
+I am a undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). I am double major in physics and Mathematics. My days are filled with unraveling the mysteries of the universe through courses in classical mechanics, quantum theory, and advanced calculus, while nights often find me coding simulations or sketching diagrams to visualize the elegance of mathematical proofs.
 
 ---
 
