@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yuxuanhu.com/image/yuxuanhu.jpg" class="floatpic">
+<img src="/assets/images/yuxuanhu.jpg" alt="Yuxuan Hu" class="float-right">
 
 Here is **Yuxuan Hu**.<br>
 
