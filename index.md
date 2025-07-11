@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yuxuan Hu**.<br>
 
-I am a undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). 
+I am a undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). I am double major in physics and Mathematics. 
 
 ---
 
@@ -25,7 +25,7 @@ I am a undergraduate student in the [Vanderbilt University](https://www.vanderbi
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：** Started working as a research assistant under [Dr.Gilfoyle]
+- **Dec 2023：** Started working as a research assistant in [Dr.Gilfoyle](https://facultystaff.richmond.edu/~ggilfoyl/GPGHome.html)'s lab.
 
 <br>
 
