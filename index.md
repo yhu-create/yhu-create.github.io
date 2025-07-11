@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/yuxuanhu.jpg" alt="Yuxuan Hu" class="floatpic">
+<img src="images/yuxuanhu(1).jpg" alt="Yuxuan Hu" class="floatpic">
 
 Here is **Yuxuan Hu**.<br>
 
@@ -21,10 +21,7 @@ I am a undergraduate student in the [Vanderbilt University](https://www.vanderbi
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **April 2025：**Presented my research [poster](/file/poster%20draft.pdf) on A&S Symposium
+- **April 2025：**Presented my research [poster](/file/poster%20draft.pdf) on A&S Symposium.
 - **Jun 2024：** Started working as a research assistant in [Dr.Gilfoyle](https://facultystaff.richmond.edu/~ggilfoyl/GPGHome.html)'s lab.
 
 <br>
