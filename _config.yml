@@ -14,7 +14,7 @@ url: https://yuxuanhu.com
 # --------------------------------------------------
 owner:
   name: Yuxuan Hu
-  avatar: images/yuxuanhu.jpg
+  avatar: yuxuanhu.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yuxuan.hu@vanderbilt.edu
 
@@ -53,7 +53,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: America/Chicago          # IANA time-zone ID (China/Beijing is invalid)
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
