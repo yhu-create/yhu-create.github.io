@@ -8,8 +8,7 @@ layout: page
 
 Here is **Yuxuan Hu**.<br>
 
-I am a undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). I am double major in physics and Mathematics. 
-
+I am an undergraduate student in the [Vanderbilt University](https://www.vanderbilt.edu/). I am double major in physics and Mathematics. Prior to transferring to Vanderbilt, I spent two years studying at the [University of Richmond](https://www.richmond.edu/).
 ---
 
 ## Research Interests
