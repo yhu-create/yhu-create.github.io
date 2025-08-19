@@ -22,7 +22,7 @@ I am an undergraduate student in the [Vanderbilt University](https://www.vanderb
 
 ## News and Updates
 - **Aug 2025：**  Joined [Dr.Varga](https://as.vanderbilt.edu/physics-astronomy/bio/kalman-varga/)'s lab as a research assistant, researching the formation of H^(+)3
-- **July 2025：**  My lab mate, Sophia, presented her [poster](/file/sophia%20poster.pdf)  at the Summer Research Symposium at the University of South Carolina on **Evaluating and Designing Metasurfaces for Exciting Skyrmions in 2D Materials**. I contributed by working on the FDTD simulation plots that were part of the project.
+- **July 2025：**  My lab mate, Sophia Elllis, presented her [poster](/file/sophia%20poster.pdf)  at the Summer Research Symposium at the University of South Carolina on **Evaluating and Designing Metasurfaces for Exciting Skyrmions in 2D Materials**. I contributed by working on the FDTD simulation plots that were part of the project.
 - **May 2025：** Joined [Dr.Dia](https://mdiaslab.com/)'s lab as a research assistant, researching magnetic skyrmion generation via the Inverse Faraday Effect.
 - **April/May 2025：**Presented my research [poster](/file/poster%20draft.pdf) on **Simulation of the CLAS12 Neutron Detection Efficiency** at the [103rd Virginia Academy of Science Annual Meeting](https://vacadsci.org/2025-annual-meeting/) and the [2025 A&S Student Symposium](https://as.richmond.edu/student-research/symposium/index.html).
 - **Jun 2024：** Started working as a research assistant in [Dr.Gilfoyle](https://facultystaff.richmond.edu/~ggilfoyl/GPGHome.html)'s lab, investigating neutron detection efficiency..
